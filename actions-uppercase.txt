@@ -104,6 +104,7 @@ Undo
 Unqueue
 Update
 Upload
+Upgrade
 Upset
 Validate
 Verify
