@@ -167,6 +167,7 @@ au
 audio
 audit
 auth
+auth-details
 author
 authors
 auto
@@ -217,6 +218,7 @@ bdata
 bea
 bean
 beans
+beneficiaries
 benefits
 beta
 bg
@@ -660,6 +662,7 @@ exe
 exec
 executable
 executables
+executed
 exiar
 expert
 experts
@@ -699,6 +702,8 @@ files
 film
 filter
 finance
+financial
+financial-institutions
 financial
 find
 firefox
@@ -1304,6 +1309,7 @@ pda
 PDF
 pdf
 pdfs
+pending
 People
 people
 perl
@@ -1832,6 +1838,7 @@ trademarks
 traffic
 training
 trans
+transaction-requests
 transactions
 transfer
 transformations
@@ -1852,6 +1859,7 @@ twiki
 Twitter
 twitter
 txt
+type
 U
 u
 uddi
