@@ -172,6 +172,8 @@ register
 Register
 remove
 Remove
+reports
+Reports
 restore
 Restore
 restrict
